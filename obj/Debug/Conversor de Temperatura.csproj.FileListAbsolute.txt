@@ -1,0 +1,10 @@
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\Conversor de Temperatura.exe.config
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\Conversor de Temperatura.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\bin\Debug\Conversor de Temperatura.pdb
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor de Temperatura.csproj.AssemblyReference.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor_de_Temperatura.FrmTemp.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor_de_Temperatura.Properties.Resources.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor de Temperatura.csproj.GenerateResource.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor de Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor de Temperatura.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\08-temp\Conversor de Temperatura\Conversor de Temperatura\obj\Debug\Conversor de Temperatura.pdb
